@@ -52,7 +52,7 @@ Dependencies for C++ project:
 
 - Micromouse Simulator
 
-## Instruction for running the
+## Running the demo
 
 In the MMS simulator, one needs to select a maze for the robot to traverse through in th "Maze" box.
 Then click on '+' button to add a new mouse algorithm. Once the new mouse algorithm dialog box appears:
